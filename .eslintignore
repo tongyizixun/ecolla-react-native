@@ -1,0 +1,19 @@
+/*
+ * @Author: 刘利军
+ * @Date: 2021-07-22 15:23:44
+ * @LastEditors: 刘利军
+ * @LastEditTime: 2021-07-22 15:24:23
+ * @Description: 
+ * @PageName: 
+ */
+
+# dependencies
+node_modules
+# production
+dist
+/.vscode
+lib
+es
+.umi
+.github
+scripts

@@ -36,6 +36,7 @@
   },
   "devDependencies": {
     "@commitlint/cli": "^12.1.4",
+    "@umijs/fabric": "^2.6.2",
     "@umijs/test": "^3.0.5",
     "commitizen": "^4.2.4",
     "commitlint-config-cz": "^0.13.2",
